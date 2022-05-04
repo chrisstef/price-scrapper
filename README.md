@@ -21,7 +21,7 @@ time **INTERVAL** (e.g '3m' --> 3 minute data) and **LOOKBACK** period (e.g '1d'
 
 ## Deploy
 
-Run the command:
+In the project directory, run the command:
 
 ```
 python price_scrapper.py
