@@ -1,7 +1,9 @@
 ## price-scrapper
 
 A simple yet useful tool to scrape cryptocurrency data.
+
 The script access data by utilizing binance API, tranforms the incoming data and
+
 exports a `.csv` file in the project directory named `scrapped_data.csv`.
 
 
